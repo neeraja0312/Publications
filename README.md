@@ -3,3 +3,8 @@
 **J. Gao, K. Gujarati, M. Hegde, P. Arra, S. Gupta, N. Buch**  
 *Remote Sensing, 2025*  
 🔗 https://www.mdpi.com/2072-4292/17/20/3427
+
+### Cloud-Based AI Framework for EV Charging Forecasting and Infrastructure Optimization  
+**J. Gao, N. A. Buch*, T. Chau, Y. Sheng, R. Wang, S. Kadabal**  
+*Under Review (Electronics, 2025)*  
+
