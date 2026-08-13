@@ -9,7 +9,8 @@
 
 ### 2) Cloud-Based AI Framework for EV Charging Forecasting and Infrastructure Optimization  
 **J. Gao, N. A. Buch*, T. Chau, Y. Sheng, R. Wang, S. Kadabal**  
-*Under Review (Electronics, 2025)*  
+*Electronics, 2026*  
+🔗 https://www.mdpi.com/2079-9292/15/11/2283
 
 - Designed a cloud-based AI system for EV charging demand forecasting  
 - Focused on infrastructure optimization using predictive modeling  
